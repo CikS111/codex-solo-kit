@@ -36,7 +36,6 @@ Installed targets:
 
 - English docs: [docs/en/getting-started.md](./docs/en/getting-started.md)
 - Chinese docs: [docs/zh-CN/getting-started.md](./docs/zh-CN/getting-started.md)
-- Publishing guide: [docs/en/publishing.md](./docs/en/publishing.md)
 
 ## Included Workflows
 

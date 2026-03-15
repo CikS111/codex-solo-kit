@@ -36,7 +36,6 @@ powershell -ExecutionPolicy Bypass -File .\install.ps1
 
 - 英文文档：[docs/en/getting-started.md](./docs/en/getting-started.md)
 - 中文文档：[docs/zh-CN/getting-started.md](./docs/zh-CN/getting-started.md)
-- 发布指南：[docs/zh-CN/publishing.md](./docs/zh-CN/publishing.md)
 
 ## 内置 Workflows
 
